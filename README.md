@@ -32,7 +32,7 @@ The purpose of this project is to apply concepts learned in class about visualiz
 	- pip install -U scikit-learn
 	- pip install pandas
 	- pip install numpy
-  - pip install matplotlib
+  	- pip install matplotlib
 
 3. Test the program:
 	- Open the Spyder IDE from Anaconda Navigator
